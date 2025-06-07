@@ -66,31 +66,39 @@ Gas 费用：确保钱包中有足够 SOL 用于支付交易的 Gas 费用（由
 
 **步骤1：创建RSI策略 点击策略**
 
-![](images/image39.png)
+[//]: # (![]&#40;images/image39.png&#41;)
+<img src="https://raw.githubusercontent.com/tpbot-admin/tpbot-admin.github.io/master/images/image39.png"  alt="image-16" style="width:800px;height:600px" />
 
 选择RSI策略
 
-![](images/image40.png)
+[//]: # (![]&#40;images/image40.png&#41;)
+<img src="https://raw.githubusercontent.com/tpbot-admin/tpbot-admin.github.io/master/images/image40.png"  alt="image-16" style="width:800px;height:600px" />
 
 **步骤2：输入代币地址(CA） 新建策略**
 
-![](images/image41.png)
+[//]: # (![]&#40;images/image41.png&#41;)
+<img src="https://raw.githubusercontent.com/tpbot-admin/tpbot-admin.github.io/master/images/image41.png"  alt="image-16" style="width:800px;height:600px" />
 
 **步骤3：策略配置 选择RSI
 K线周期，选择1分钟或者5分钟K线（1分钟适合超短线交易，5分钟适合稍长趋势）**
 
-![](images/image42.png)
+[//]: # (![]&#40;images/image42.png&#41;)
+<img src="https://raw.githubusercontent.com/tpbot-admin/tpbot-admin.github.io/master/images/image42.png"  alt="image-16" style="width:800px;height:600px" />
 
 **步骤4：设置单笔投入金额 如：20U**
 
-![](images/image43.png)
+[//]: # (![]&#40;images/image43.png&#41;)
+<img src="https://raw.githubusercontent.com/tpbot-admin/tpbot-admin.github.io/master/images/image43.png"  alt="image-16" style="width:800px;height:600px" />
 
 **步骤5：设置单笔止盈间隔 如6%**
 
-![](images/image44.png)
+[//]: # (![]&#40;images/image44.png&#41;)
+<img src="https://raw.githubusercontent.com/tpbot-admin/tpbot-admin.github.io/master/images/image44.png"  alt="image-16" style="width:800px;height:600px" />
 
 **步骤7：启动策略**
 
 返回策略主页，点击"策略运行"（绿色表示运行，红色表示未运行）。
 
-![](images/image45.png)
+[//]: # (![]&#40;images/image45.png&#41;)
+<img src="https://raw.githubusercontent.com/tpbot-admin/tpbot-admin.github.io/master/images/image45.png"  alt="image-16" style="width:800px;height:600px" />
+
