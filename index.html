@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>策略玩家</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta name="description" content="策略玩家">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+    <!-- 添加网页标签图标 -->
+    <link rel="icon" href="https://raw.githubusercontent.com/wendingtaoli/wendingtaoli.github.io/main/assets/favicon.ico" type="image/x-icon">
+    <style>
+        /* 自定义侧边栏背景颜色 */
+        .sidebar {
+            background-color: #f2f2f2; /* 设置背景颜色 */
+        }
+
+        /* 侧边栏链接文字颜色 */
+        .sidebar a {
+            color: #333; /* 链接文字颜色 */
+        }
+
+        /* 取消链接悬停时的下划线，并设置悬停时的文字颜色 */
+        .sidebar a:hover {
+            text-decoration: none; /* 取消下划线 */
+            color: #45b985; /* 悬停时的文字颜色 */
+        }
+    </style>
+</head>
+
+<body>
+<div id="app"></div>
+<script>
+    window.$docsify = {
+        name: '策略玩家',
+        loadSidebar: true,
+        // 加载 summary.md
+        loadSidebar: 'sidebar.md',
+        subMaxLevel: 2,
+        coverpage: 'index.md',
+        noCache: true, // 禁用缓存
+        mergeNavbar: true, // 小屏设备下合并导航栏到侧边栏。
+        homepage: false
+    }
+</script>
+<!-- Docsify v4 -->
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+
+</body>
+
+</html>
