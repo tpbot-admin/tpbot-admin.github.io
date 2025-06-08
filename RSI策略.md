@@ -3,6 +3,12 @@
 
 TPBOT 的 RSI 策略专为 Solana MEME 币市场设计，基于相对强弱指数（RSI）指标，通过 1 分钟或 5 分钟 K 线分析，当 RSI 值低于 30 时自动买入，结合用户自定义的止盈参数，帮助您精准捕捉 USDC/MEME 交易对的买卖点，实现科学化交易。本教程将指导您通过 Telegram 机器人（TPBOT）创建、配置和管理 RSI 策略，让您轻松成为"科学家"，在 MEME 币市场中实现高效收益！
 
+###  🎥 视频教程: 强哥说链
+
+▶️[点击查看强哥说链Youtube全集](https://www.youtube.com/@gmgn369)
+
+<iframe width="auto" height="650px" src="https://www.youtube.com/embed/RVYgo5qDmX4?si=hA1tXSdM7aygWnfN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **步骤 1：准备工作**
 
 确保TP BOT钱包已创建：按照新手教程中的步骤，通过 TPBOT 创建您的 Solana 钱包。我们的平台采用 AES-256-GCM 加密、TLS1.3 协议和 HSM 硬件安全模块，确保私钥全生命周期安全，服务器永不触碰明文。
