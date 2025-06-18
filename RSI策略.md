@@ -14,8 +14,8 @@
 确保TP BOT钱包已创建：按照新手教程中的步骤，通过 TPBOT 创建您的 Solana 钱包。我们的平台采用 AES-256-GCM 加密、TLS1.3 协议和 HSM 硬件安全模块，确保私钥全生命周期安全，服务器永不触碰明文。
 
 加入 Telegram 社区：搜索 TPBOT：`@Trade_Plus_Sol`
-👉[点击这里进入](https://t.me/follow_step_bot?start=OFC25N6V)或
-👉[点击这里获取支持](https://t.me/+yerC-XZv8sthN2Nl)
+#### 👉[**点击这里进入TPBOT**](https://t.me/follow_step_bot?start=OFC25N6V)
+#### 👉[**点击这里获取支持**](https://t.me/+yerC-XZv8sthN2Nl)
 
 准备资金：确保您的 Solana 钱包中有足够的 USDC 用于交易和 SOL 用于支付 Gas 费用。建议新手从少量 USDC（如 10 USDC）开始测试。
 
